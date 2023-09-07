@@ -26,6 +26,8 @@ body{
     background: radial-gradient(circle, 
     rgba(238,174,202,1) 0%
     rgba(148,187,233,1) 100%);
+    min-width: 300px;
+    min-height:350px;
 }
 
 .container{
@@ -226,4 +228,9 @@ body{
 
 .container form input[type="submit"]:active{
     opacity: 0.8;
+}
+
+.info{
+    font-size: 9px;
+    transform: translate(200px,250px);
 }
