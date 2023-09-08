@@ -1,4 +1,4 @@
-/*Frames*/
+use/*Frames*/
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Dosis&family=Inter:wght@300;500&family=Open+Sans:wght@300&family=Poppins:wght@300;400&display=swap');
 @keyframes HAH-You-Looked{
     0%{
@@ -232,5 +232,5 @@ body{
 
 .info{
     font-size: 9px;
-    transform: translate(200px,250px);
+    transform: translate(100%,100%);
 }
