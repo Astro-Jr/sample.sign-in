@@ -229,8 +229,3 @@ body{
 .container form input[type="submit"]:active{
     opacity: 0.8;
 }
-/*My Copyright Made*/
-.info{
-    font-size: 9px;
-    transform: translate(100%,100%);
-}
